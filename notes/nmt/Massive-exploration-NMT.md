@@ -1,3 +1,6 @@
+# Massive Exploration of Neural Machine Translation Architectures
+
+
 
 ## Practical insights and advice on working with seq2seq 
 
