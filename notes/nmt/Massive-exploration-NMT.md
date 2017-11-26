@@ -1,5 +1,3 @@
-> WIP(Will update fully by this week)
-
 # Massive Exploration of Neural Machine Translation Architectures
 
 [Massive Exploration of Neural Machine Translation Architectures]
