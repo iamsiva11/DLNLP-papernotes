@@ -1,16 +1,16 @@
 
-# Sequence to Sequence Learning with Neural Networks (NIPS, Sep 2014)
+# Sequence to Sequence Learning with Neural Networks 
 
-[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) (NIPS, Sep 2014)
 
 
-# TLDR - Quick summary
+## TLDR - Quick summary
 ---
 
 Sequences pose a challenge for DNNs because they require that the dimensionality of the inputs and outputs is known and fixed. The RNN can easily map sequences to sequences whenever the alignment between the inputs the outputs is known ahead of time. However, it is not clear how to apply an RNN to problems whose input and the output sequences have different lengths with complicated and non-monotonic relationships. To fix this, a multilayered Long Short-Term Memory (LSTM) is used to map the input sequence to a vector of a fixed dimensionality, and then another deep LSTM to decode the target sequence from the vector.
 
 
-# Key Points
+## Key Points
 ---
 
 * Pioneering research work in Deep learning based sequence modelling. Although DNNs work well whenever large labeled training sets are available, they cannot be used to map sequences to sequences.
@@ -32,19 +32,18 @@ Sequences pose a challenge for DNNs because they require that the dimensionality
 * When the sequence of words are turned into a vector of fixed dimensionality; the representations are sensitive to the order of words, while being fairly insensitive to the replacement of an active voice with a passive voice.
 
 
-## Questions
+### Questions
 ---
 
 * The authors we do not have a complete explanation to why inverting the input actually works.
 
 
-## Illustration
+### Illustration
 ---
 
 ![Arch image in the paper](https://adriancolyer.files.wordpress.com/2016/05/seq2seq-fig-1.png)
 
 So for example, instead of mapping the sentence a, b, c to the sentence α, β, γ, the LSTM is asked to map c, b, a to α, β, γ, where α, β, γ is the translation of a, b, c . This way, a is in close proximity to α,b is fairly close to β , and so on, a fact that makes it easy for SGD to “establish communication” between the input and the output. We found this simple data transformation to greatly boost the performance of the LSTM
-
 
 
 ### Other existing Paper Notes of this paper
@@ -57,4 +56,3 @@ https://www.commonlounge.com/discussion/37abd2ad4e7849a39b66ef750f95ec0d
 https://gist.github.com/shagunsodhani/a2915921d7d0ac5cfd0e379025acfb9f
 
 https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/seq2seq-with-neural-networks.md
-
