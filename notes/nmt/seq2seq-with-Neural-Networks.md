@@ -46,7 +46,7 @@ Sequences pose a challenge for DNNs because they require that the dimensionality
 So for example, instead of mapping the sentence a, b, c to the sentence α, β, γ, the LSTM is asked to map c, b, a to α, β, γ, where α, β, γ is the translation of a, b, c . This way, a is in close proximity to α,b is fairly close to β , and so on, a fact that makes it easy for SGD to “establish communication” between the input and the output. We found this simple data transformation to greatly boost the performance of the LSTM
 
 
-### Other existing Paper Notes of this paper
+### Other existing Summaries/Notes of this paper
 ---
 
 https://blog.acolyer.org/2016/06/02/sequence-to-sequence-learning-with-neural-networks/
