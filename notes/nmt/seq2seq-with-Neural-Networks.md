@@ -13,29 +13,29 @@ Sequences pose a challenge for DNNs because they require that the dimensionality
 # Key Points
 ---
 
-Pioneering research work in Deep learning based sequence modelling. Although DNNs work well whenever large labeled training sets are available, they cannot be used to map sequences to sequences.
+* Pioneering research work in Deep learning based sequence modelling. Although DNNs work well whenever large labeled training sets are available, they cannot be used to map sequences to sequences.
 
-The authors show that a multilayer LSTM RNN (4 layers, 1000 cells per layer, 1000d embeddings, 160k source vocab, 80k target vocab) can achieve competitive results on Machine Translation tasks.
+* The authors show that a multilayer LSTM RNN (4 layers, 1000 cells per layer, 1000d embeddings, 160k source vocab, 80k target vocab) can achieve competitive results on Machine Translation tasks.
 
-The authors find that reversing the input sequence leads to significant improvements, most likely due to the introduction of short-term dependencies that are more easily captured by the gradients. 
+* The authors find that reversing the input sequence leads to significant improvements, most likely due to the introduction of short-term dependencies that are more easily captured by the gradients. 
 
-LSTM did not have difficulty on long sentences, which was a surprise.
+* LSTM did not have difficulty on long sentences, which was a surprise.
 
-The model is evaluated on MT tasks and achieves competitive results (34.8 BLEU) by itself, and close to state of the art if coupled with existing baseline systems (36.5 BLEU).
+* The model is evaluated on MT tasks and achieves competitive results (34.8 BLEU) by itself, and close to state of the art if coupled with existing baseline systems (36.5 BLEU).
 
-The LSTM also learned sensible phrase and sentence representations that are sensitive to word order and are relatively invariant to the active and the passive voice.
+* The LSTM also learned sensible phrase and sentence representations that are sensitive to word order and are relatively invariant to the active and the passive voice.
 
-Reversing the words in the source sentence lead to significant improvement - key technical contributions of this work(only source sentence but not the target sentences)
+* Reversing the words in the source sentence lead to significant improvement - key technical contributions of this work(only source sentence but not the target sentences)
 
-Deep LSTMs significantly outperformed shallow LSTMs
+* Deep LSTMs significantly outperformed shallow LSTMs
 
-When the sequence of words are turned into a vector of fixed dimensionality; the representations are sensitive to the order of words, while being fairly insensitive to the replacement of an active voice with a passive voice.
+* When the sequence of words are turned into a vector of fixed dimensionality; the representations are sensitive to the order of words, while being fairly insensitive to the replacement of an active voice with a passive voice.
 
 
 ## Questions
 ---
 
-The authors we do not have a complete explanation to why inverting the input actually works.
+* The authors we do not have a complete explanation to why inverting the input actually works.
 
 
 ## Illustration
