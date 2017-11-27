@@ -1,7 +1,6 @@
 # Massive Exploration of Neural Machine Translation Architectures
 
-[Massive Exploration of Neural Machine Translation Architectures]
-(https://arxiv.org/pdf/1703.03906.pdf)
+[Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/pdf/1703.03906.pdf)
 
 # Summary 
 
