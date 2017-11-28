@@ -8,14 +8,14 @@ Welcome! The papers are clustered by the problem domain.
 
 ### Neural Machine Translation(NMT)
 
-* Sequence to Sequence Learning with Neural Networks[[arXiv](https://arxiv.org/abs/1409.3215)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/seq2seq-with-Neural-Networks.md)] :page_facing_up:
+* Sequence to Sequence Learning with Neural Networks[[arXiv](https://arxiv.org/abs/1409.3215)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/seq2seq-with-Neural-Networks.md)] :clipboard:
 
-* Neural Machine Translation by Jointly Learning to Align and Translate (2015)[[arXiv](https://arxiv.org/abs/1409.0473)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/nmt-by-Jointly-Learning-to-AlignandTranslate.md)] 
+* Neural Machine Translation by Jointly Learning to Align and Translate (2015)[[arXiv](https://arxiv.org/abs/1409.0473)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/nmt-by-Jointly-Learning-to-AlignandTranslate.md)] :clipboard:
 
 * Effective Approaches to Attention-based Neural Machine Translation
-[[arXiv](https://arxiv.org/abs/1508.04025)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/Effective-Approaches-to-Attention-based-nmt.md)] 
+[[arXiv](https://arxiv.org/abs/1508.04025)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/Effective-Approaches-to-Attention-based-nmt.md)] :clipboard:
 
-* Massive Exploration of Neural Machine Translation Architectures[[arXiv](https://arxiv.org/pdf/1703.03906.pdf)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/Massive-exploration-NMT.md)] 
+* Massive Exploration of Neural Machine Translation Architectures[[arXiv](https://arxiv.org/pdf/1703.03906.pdf)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/Massive-exploration-NMT.md)] :clipboard:
 
 
 ---
