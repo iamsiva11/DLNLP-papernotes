@@ -2,6 +2,10 @@
 
 Welcome! The papers are clustered by the problem domain.
 
+---
+---
+---
+
 # seq2seq
 
 ### Neural Machine Translation(NMT)
@@ -15,6 +19,9 @@ Welcome! The papers are clustered by the problem domain.
 
 * Massive Exploration of Neural Machine Translation Architectures[[arXiv](https://arxiv.org/pdf/1703.03906.pdf)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/Massive-exploration-NMT.md)] 
 
+
+---
+---
 
 # Graph embeddings 
 
@@ -31,6 +38,9 @@ Welcome! The papers are clustered by the problem domain.
 * LINE: Large-scale information network embedding, WWW'15 [[arXiv](https://arxiv.org/abs/1503.03578)]
 
 * Grarep: Learning graph representations with global structural information [[arXiv](http://dl.acm.org/citation.cfm?id=2806512)]
+
+---
+---
 
 
 # Word embeddings 
