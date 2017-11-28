@@ -24,4 +24,4 @@ Welcome! The papers are clustered by the problem domain.
 
 * context2vec: Learning Generic Context Embedding with Bidirectional LSTM [[arXiv](http://www.aclweb.org/anthology/K16-1006)] 
 
-* Distributed Representations of Sentences and Documents[arXiv](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)]
+* Distributed Representations of Sentences and Documents [[arXiv](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)]
