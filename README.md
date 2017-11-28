@@ -20,7 +20,7 @@ Welcome! The papers are clustered by the problem domain.
 
 
 
-# Embeddings 
+# Word embeddings 
 
 * context2vec: Learning Generic Context Embedding with Bidirectional LSTM [[arXiv](http://www.aclweb.org/anthology/K16-1006)] 
 
