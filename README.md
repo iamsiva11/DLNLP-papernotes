@@ -2,7 +2,9 @@
 
 Welcome! The papers are clustered by the problem domain.
 
-## Neural Machine Translation( NMT, seq2seq )
+# seq2seq
+
+### Neural Machine Translation(NMT)
 
 * Sequence to Sequence Learning with Neural Networks[[arXiv](https://arxiv.org/abs/1409.3215)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/seq2seq-with-Neural-Networks.md)] 
 
