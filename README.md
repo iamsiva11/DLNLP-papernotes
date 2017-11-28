@@ -8,7 +8,7 @@ Welcome! The papers are clustered by the problem domain.
 
 ### Neural Machine Translation(NMT)
 
-* Sequence to Sequence Learning with Neural Networks[[arXiv](https://arxiv.org/abs/1409.3215)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/seq2seq-with-Neural-Networks.md)] 
+* Sequence to Sequence Learning with Neural Networks[[arXiv](https://arxiv.org/abs/1409.3215)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/seq2seq-with-Neural-Networks.md)] :page_facing_up:
 
 * Neural Machine Translation by Jointly Learning to Align and Translate (2015)[[arXiv](https://arxiv.org/abs/1409.0473)] [[notes](https://github.com/iamsiva11/DLNLP-papernotes/blob/master/notes/nmt/nmt-by-Jointly-Learning-to-AlignandTranslate.md)] 
 
