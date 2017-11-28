@@ -18,6 +18,19 @@ Welcome! The papers are clustered by the problem domain.
 
 # Graph embeddings 
 
+* DeepWalk: Online Learning of Social Representations, KDD'14 [[arXiv](https://arxiv.org/abs/1403.6652)]
+
+* node2vec: Scalable Feature Learning for Networks, KDD'16 [[arXiv](https://arxiv.org/abs/1607.00653)]
+
+* Structural Deep Network Embedding [[arXiv](http://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)]
+
+* Semi-Supervised Classification with Graph Convolutional Networks [[arXiv](https://arxiv.org/abs/1609.02907)]
+
+* Asymmetric Transitivity Preserving Graph Embedding or High-Order Proximity preserved Embedding(HOPE for short) [[arXiv](http://www.kdd.org/kdd2016/papers/files/rfp0184-ouA.pdf)]
+
+* LINE: Large-scale information network embedding, WWW'15 [[arXiv](https://arxiv.org/abs/1503.03578)]
+
+* Grarep: Learning graph representations with global structural information [[arXiv](http://dl.acm.org/citation.cfm?id=2806512)]
 
 
 # Word embeddings 
